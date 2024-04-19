@@ -1,4 +1,4 @@
-# MPTCP-Video-Streaming
+# Video-Streaming-Using-Multi-Path-TCP-MTCP-
 Video Streaming implementation using MPTCP
 
 ## Requirements
@@ -22,5 +22,4 @@ Video Streaming implementation using MPTCP
 https://www.canva.com/design/DAF1eh56ZSA/XmOd_DEVqSsxvqt63MIllQ/watch?utm_content=DAF1eh56ZSA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ## emulation
 `sudo tc qdisc add dev lo root netem loss 10% delay 20ms 5ms distribution pareto`# Video-Streaming-Using-Multi-Path-TCP-MTCP-
-# Video-Streaming-Using-Multi-Path-TCP-MTCP-
-# Video-Streaming-Using-Multi-Path-TCP-MTCP-
+
